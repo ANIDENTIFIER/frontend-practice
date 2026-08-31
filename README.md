@@ -5,14 +5,16 @@
 记录本门课程的内容
 
 ## 目录结构
-homepage
-    images
-        me.jpg
-    index.html
-theme-page
-    images
-        koka-logo-filled.png
-    index.html
+homepage/
+├── images/
+│   └── me.jpg
+└── index.html
+
+theme-page/
+├── images/
+│   └── koka-logo-filled.png
+└── index.html
+
 .gitignore
 README.md
 test.txt

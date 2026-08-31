@@ -5,4 +5,14 @@
 记录本门课程的内容
 
 ## 目录结构
-通过单击渲染页面右上角的“大纲”菜单图标 ，查看 README 文件的目录。
+homepage
+    images
+        me.jpg
+    index.html
+theme-page
+    images
+        koka-logo-filled.png
+    index.html
+.gitignore
+README.md
+test.txt

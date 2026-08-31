@@ -12,7 +12,7 @@ homepage/
 
 theme-page/  
 ├── images/  
-│   └── koka-logo-filled.png  
+│   └── cover.png  
 └── index.html  
 
 .gitignore  

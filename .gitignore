@@ -1,0 +1,12 @@
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# VS Code 配置
+.vscode/
+
+# IntelliJ IDEA 配置
+.idea/
+
+# Node.js 依赖
+node_modules/
